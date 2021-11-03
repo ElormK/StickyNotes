@@ -68,7 +68,7 @@ function rotate(){
 }
 
 function color(){
- var random_color = ["#c2ff3d","#ff3de8","#3dc2ff","#04e022","#bc83e6","#ebb328"]
+ var random_color = ["#c2ff3d","#ff3de8","#3dc2ff","#04e022","#bc83e6","#ebb328", "#F24824", "#F9F912", "#00FFFF"]
 
  if(i > random_color.length - 1){
      i = 0;
